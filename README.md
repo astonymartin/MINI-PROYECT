@@ -20,7 +20,6 @@
 <p style="color: darkgreen;">Se implementan diferentes algoritmos de machine learning, como regresión lineal, regresión de Ridge, regresión de Lasso, árboles de decisión, vecinos más cercanos y XGBoost, para construir modelos predictivos. Se lleva a cabo la división del conjunto de datos en conjuntos de entrenamiento y prueba, y se evalúan los modelos utilizando métricas como el coeficiente de determinación (R²), el error cuadrático medio (MSE) y el error absoluto medio (MAE).</p>
 <h2><strong>Librerías utilizadas</strong></h2>
 <p style="color: darkgreen;">El proyecto hace uso de diversas librerías de Python, entre las que se incluyen:</p>
-![](https://github.com/astonymartin/PROYECTO-IRONHACK-1/blob/main/principal.jfif)
 <ul>
   <li>pandas</li>
   <li>matplotlib</li>
@@ -33,6 +32,7 @@
 </ul>
 <p style="color: darkgreen;">Además, se emplean técnicas de preprocesamiento como la normalización y el escalado, utilizando las clases <code>MinMaxScaler</code> y <code>StandardScaler</code> de scikit-learn, respectivamente.</p>
 <h2><strong>Nota</strong></h2>
+  ![](https://github.com/astonymartin/PROYECTO-IRONHACK-1/blob/main/principal.jfif)
 <p style="color: darkgreen;">Es importante tener en cuenta que este proyecto se centra en el análisis de datos inmobiliarios específicos del año 2015 en el Condado de King, por lo que los modelos desarrollados pueden no ser generalizables a otros conjuntos de datos o períodos temporales.</p>
 </body>
 </html>
